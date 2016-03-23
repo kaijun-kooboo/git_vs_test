@@ -1,0 +1,6 @@
+D:\git_vs_test\vstest\gittest\bin\gittest.dll.config
+D:\git_vs_test\vstest\gittest\bin\gittest.dll
+D:\git_vs_test\vstest\gittest\bin\gittest.pdb
+D:\git_vs_test\vstest\gittest\obj\Debug\gittest.csprojResolveAssemblyReference.cache
+D:\git_vs_test\vstest\gittest\obj\Debug\gittest.dll
+D:\git_vs_test\vstest\gittest\obj\Debug\gittest.pdb
