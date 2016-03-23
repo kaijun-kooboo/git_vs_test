@@ -4,3 +4,9 @@ D:\git_vs_test\vstest\gittest\bin\gittest.pdb
 D:\git_vs_test\vstest\gittest\obj\Debug\gittest.csprojResolveAssemblyReference.cache
 D:\git_vs_test\vstest\gittest\obj\Debug\gittest.dll
 D:\git_vs_test\vstest\gittest\obj\Debug\gittest.pdb
+E:\项目\git_vs_test\vstest\gittest\bin\gittest.dll.config
+E:\项目\git_vs_test\vstest\gittest\bin\gittest.dll
+E:\项目\git_vs_test\vstest\gittest\bin\gittest.pdb
+E:\项目\git_vs_test\vstest\gittest\obj\Debug\gittest.csprojResolveAssemblyReference.cache
+E:\项目\git_vs_test\vstest\gittest\obj\Debug\gittest.dll
+E:\项目\git_vs_test\vstest\gittest\obj\Debug\gittest.pdb
