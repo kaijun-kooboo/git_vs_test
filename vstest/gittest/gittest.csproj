@@ -65,12 +65,20 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="hello.aspx" />
     <Content Include="index.html" />
     <Content Include="index2.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClassTest.cs" />
+    <Compile Include="hello.aspx.cs">
+      <DependentUpon>hello.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="hello.aspx.designer.cs">
+      <DependentUpon>hello.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup>
